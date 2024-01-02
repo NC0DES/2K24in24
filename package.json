@@ -2,6 +2,10 @@
   "name": "2024in24",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/NC0DES/2024in24.git"
+	},
   "type": "module",
   "scripts": {
     "build": "next build",
